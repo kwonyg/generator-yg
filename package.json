@@ -1,0 +1,21 @@
+{
+  "name": "generator-yg",
+  "version": "1.0.0",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KwonYG/generator-yg"
+  },
+  "description": "yg generator",
+  "main": "index.js",
+  "author": "KwonYG",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
