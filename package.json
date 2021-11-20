@@ -17,5 +17,13 @@
   "license": "MIT",
   "dependencies": {
     "yeoman-generator": "^5.4.2"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "husky": "^7.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
   }
 }
