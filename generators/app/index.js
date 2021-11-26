@@ -36,7 +36,9 @@ module.exports = class extends Generator {
           this.destinationPath(projectName),
           {
             projectName,
-          }
+          },
+          null,
+          { globOptions: { dot: true } }
         );
         break;
       }
