@@ -28,5 +28,10 @@
   "scripts": {
     "release": "standard-version",
     "prepare": "husky install"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
