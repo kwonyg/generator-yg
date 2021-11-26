@@ -1,5 +1,7 @@
 # generator-yg
 
+This is a personal generator. You can use it freely if necessary. Bug PR is very welcome. (Please feel free to fill out the issue PR.)
+
 ## Gettting started
 
 ### 1. Install
